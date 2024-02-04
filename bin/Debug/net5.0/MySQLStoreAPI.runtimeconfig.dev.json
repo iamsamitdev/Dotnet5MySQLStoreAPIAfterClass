@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/samit/.dotnet/store/|arch|/|tfm|",
+      "/Users/samit/.nuget/packages"
+    ]
+  }
+}
